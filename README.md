@@ -1,4 +1,4 @@
-# OOP-project
+# Naives bayes replica
 
 Door Locked Predictor
 This project is a  application that predicts whether a door is locked based on user-provided input. It uses a frequency-table approach to make predictions and provides a graphical user interface (GUI) for user interaction.
